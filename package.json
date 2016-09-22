@@ -1,0 +1,17 @@
+{
+  "name": "heylyn-gulp",
+  "version": "1.0.0",
+  "description": "1)GIT版本控制；\r 2)前端自动化；\r 3)自适应设计；\r 4)后端PHP和JAVA；\r 5)弹幕；\r 6)中英文版本；\r 7)只关注美国见闻的博客；\r 8)一些博客可以参考：\r http://yujiangshui.com/grunt-basic-tutorial/\r https://quickleft.com/blog/grunt-js-tips-tricks/\r http://itbilu.com/nodejs/npm/4J1o0iyI.html\r https://www.awesomes.cn/source/9\r http://www.zhangxinxu.com/wordpress/2013/01/uglifyjs-compress-js/\r http://www.liaoxuefeng.com/\r http://www.yinwang.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hailin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
